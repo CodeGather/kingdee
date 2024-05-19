@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kingdee\\project\\Jac.XkDemo.BOS.Business.PlugIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8836C0B-B5A0-4750-8D9D-557F9BF5EFBE}|Jac.XkDemo.BOS.Business.PlugIn\\Jac.XkDemo.BOS.Business.PlugIn.csproj|d:\\kingdee\\project\\jac.xkdemo.bos.business.plugin\\jac.xkdemo.bos.business.plugin\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8836C0B-B5A0-4750-8D9D-557F9BF5EFBE}|Jac.XkDemo.BOS.Business.PlugIn\\Jac.XkDemo.BOS.Business.PlugIn.csproj|solutionrelative:jac.xkdemo.bos.business.plugin\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Kingdee\\project\\Jac.XkDemo.BOS.Business.PlugIn\\Jac.XkDemo.BOS.Business.PlugIn\\Class1.cs",
+              "RelativeDocumentMoniker": "Jac.XkDemo.BOS.Business.PlugIn\\Class1.cs",
+              "ToolTip": "D:\\Kingdee\\project\\Jac.XkDemo.BOS.Business.PlugIn\\Jac.XkDemo.BOS.Business.PlugIn\\Class1.cs*",
+              "RelativeToolTip": "Jac.XkDemo.BOS.Business.PlugIn\\Class1.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:03:14.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
